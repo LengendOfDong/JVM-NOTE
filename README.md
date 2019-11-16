@@ -19,4 +19,4 @@
 &emsp;&emsp;机栈所发挥的作用是非常相似的，它们之间的区别不过是虚拟机栈为虚拟机执行Java方法服务，而本地方法栈则为虚拟机使用到的Native方法服务。与虚拟机栈一样，本地方法栈区域也会抛出StackOverFlowError和OutOfMemoryError异常。
 
 ## Java堆
-&emsp;&emsp;
+&emsp;&emsp; 
