@@ -55,4 +55,7 @@
 
 &emsp;&emsp;对于数据类型，每一维度将使用一个前置的“["字符来描述，如一个定义为”java.lang.String[][]“类型的二维数组，将被记录为：”[[Ljava/lang/String;“,一个整形数组”int[]“将被记录为”[I“。
 
+&emsp;&emsp;用描述符来描述方法时，按照先参数列表，后返回值的顺序描述，参数列表按照参数的严格顺序放在”（）“之内。
+
+&emsp;&emsp;方法void inc()的描述符为”()V“ , 方法java.lang.String toString()的描述符为”()Ljava/lang/String;“
 
