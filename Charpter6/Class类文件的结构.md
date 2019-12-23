@@ -59,3 +59,5 @@
 
 &emsp;&emsp;方法void inc()的描述符为”()V“ , 方法java.lang.String toString()的描述符为”()Ljava/lang/String;“
 
+
+
