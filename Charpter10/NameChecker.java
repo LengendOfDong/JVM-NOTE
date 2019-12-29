@@ -23,7 +23,7 @@ import static javax.tools.Diagnostic.Kind.WARNING;
  * @date 2019/12/29
  */
 public class NameChecker {
-    private final Messager messager;å
+    private final Messager messager;
 
     NameCheckScanner nameCheckScanner = new NameCheckScanner();
 
